@@ -1,0 +1,4 @@
+cdn 
+cross origin
+dev dependicise vs normal dependicey
+transitive dependinces
